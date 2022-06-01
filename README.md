@@ -7,7 +7,7 @@ Xiaomi 12 was announced and released in December 2021.
 # Device specifications
 
 ------
-|        Device | Xiaomi MI 12                                                   |
+|        Device | Xiaomi 12                                                   |
 | ------------: | :----------------------------------------------------------- |
 |       Chipset | Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)                     |
 |           CPU | Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510) |
@@ -23,4 +23,4 @@ Xiaomi 12 was announced and released in December 2021.
 
 # Device picture
 
-<img src="https://i01.appmifile.com/webfile/globalimg/id/cms/F5754513-7B21-DB5E-8CE9-C5101EED530C.jpg" width="500" height="590">
+<img src="https://i01.appmifile.com/webfile/globalimg/id/cms/F5754513-7B21-DB5E-8CE9-C5101EED530C.jpg" width="590" height="590">
